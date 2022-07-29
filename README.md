@@ -16,3 +16,8 @@ sudo apt install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev
 4) Clone Sy_Vesctool into your code directory
 ```git clone https://github.com/sylents-dev-e/sy_vesctool```
 5) run QT Creator and import ```vesc_tool.pro``` project file
+
+### Android
+
+Install Android SDK ```sudo apt install android-sdk```
+Install JDK
